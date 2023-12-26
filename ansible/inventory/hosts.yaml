@@ -1,0 +1,8 @@
+---
+kubernetes:
+  children:
+    master:
+      hosts:
+        mercury:
+          ansible_user: dylan
+          ansible_host: 192.168.68.60
