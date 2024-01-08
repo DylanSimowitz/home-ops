@@ -23,5 +23,7 @@
         "vs-kubernetes.knownKubeconfigs": [
           "./kubeconfig"
       ]
-    }
+    },
+    "autoHide.autoHidePanel": false,
+    "autoHide.autoHideSideBar": false
 }
